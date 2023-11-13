@@ -1,12 +1,12 @@
 *start
 
-[title name="漫画読むか読まないか"]
+[title name="漫画人生"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
 
 
-「漫画読むか読まないか」[l][r]
+「漫画人生」[l][r]
 
 [cm]
 
